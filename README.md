@@ -89,3 +89,11 @@ Data Structures & Algorithms · OOPs · DBMS · Operating Systems · Computer Ne
 </p>
 
 <p align="center">✨ Thanks for stopping by — always open to collaborating on ML, GenAI, and data-driven projects!</p>
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasthasehgal16&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasthasehgal16&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aasthasehgal16&theme=radical)
