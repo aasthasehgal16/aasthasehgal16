@@ -77,7 +77,7 @@ Data Structures & Algorithms · OOPs · DBMS · Operating Systems · Computer Ne
 
 ### 🏆 Achievements & Leadership
 
-- 🥇 **Smart India Hackathon 2025** — Selected among Top Teams; developed an AI-based solution within 24 hours, advancing among the top institute teams
+- 🥇 **Smart India Hackathon 2025** — Selected among Top Teams; 
 - 🎤 Active participant in college-level data science workshops, quiz competitions, and AI events
 
 ---
