@@ -12,10 +12,10 @@
 
 - 🎓 B.Tech in Computer Science (AI & Data Science) @ Panipat Institute of Engineering and Technology, Haryana — CGPA 8.0/10
 -  Actively deepening my expertise in **GenAI, LLMs, and RAG-based systems**
--  Experienced in working with real-world datasets (10k+ records) and developing data-driven ML solutions
+-  Experienced in working with **real-world datasets (10k+ records)** and developing data-driven ML solutions
 -  **Qualified for the Internal Round of Smart India Hackathon(SIH) 2025**
--  Growth mindset, strong sense of accountability, and inquisitive for solving problems with data
--  Building projects that bridge Data Science + GenAI + AI Agents into practical applications
+-  **Growth mindset, strong sense of accountability, and inquisitive for solving problems with data**
+-  Building projects that bridge **Data Science + GenAI + AI Agents** into practical applications
 - 📍 Based in Panipat, Haryana, India
 
 ---
@@ -68,7 +68,7 @@ Data Structures & Algorithms · OOPs · DBMS · Operating Systems · Computer Ne
 - Implemented Hybrid RAG (FAISS + BM25) for trend retrieval and integrated the Gemini API for AI-driven script generation
 - Delivered insights through a React + Recharts dashboard for creator analytics and content performance tracking
 
-  #### 🧠 [Mental Health Prediction & Analysis System](https://github.com/aasthasehgal16/mental-health-prediction-system)
+#### 🧠 [Mental Health Prediction & Analysis System](https://github.com/aasthasehgal16/mental-health-prediction-system)
 `Python` `Scikit-learn` `Pandas` `Streamlit`
 - Processed 10,000+ mental health survey records; ran EDA across 15+ variables to uncover stress patterns
 - Achieved **85% accuracy** with Random Forest — a 12% improvement over baseline Logistic Regression
