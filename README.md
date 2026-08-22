@@ -11,9 +11,10 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science (AI & Data Science) @ Panipat Institute of Engineering and Technology, Haryana — CGPA 8.0/10
-- 🔭 Currently building ML pipelines and data-driven solutions on real-world datasets (10k+ records)
-- 🌱 Actively deepening my expertise in **GenAI, LLMs, and RAG-based systems**
-- 💡 Growth mindset, strong sense of accountability, and inquisitive for solving problems with data
+-  Currently building ML pipelines and data-driven solutions on real-world datasets (10k+ records)
+-  Actively deepening my expertise in **GenAI, LLMs, and RAG-based systems**
+-  Qualified for the Internal Round of Smart India Hackathon(SIH) 2025
+-  Growth mindset, strong sense of accountability, and inquisitive for solving problems with data
 - 📍 Based in Panipat, Haryana, India
 
 ---
