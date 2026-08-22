@@ -54,17 +54,25 @@ Data Structures & Algorithms · OOPs · DBMS · Operating Systems · Computer Ne
 
 ### 🚧 Featured Projects
 
-#### 🧠 [Mental Health Prediction & Analysis System](https://github.com/aasthasehgal16/mental-health-prediction-system)
-`Python` `Scikit-learn` `Pandas` `Streamlit`
-- Processed 10,000+ mental health survey records; ran EDA across 15+ variables to uncover stress patterns
-- Achieved **85% accuracy** with Random Forest — a 12% improvement over baseline Logistic Regression
-- Deployed a Streamlit dashboard with 20+ visualizations for stakeholder-ready reporting
+#### 🎙️ [Real-Time AI Voice Agent Pipeline](https://github.com/aasthasehgal16/REAL-TIME-VOICE-PIPELINE)
+`Python` `FastAPI` `Pipecat` `LiveKit` `Deepgram` `Groq` `RAG` `PostgreSQL`
+- Built a **real-time conversational voice pipeline** integrating STT → LLM → TTS with low-latency streaming
+- Implemented **context management, conversation summarization, memory, and prompt engineering** for context-aware responses
+- Integrated **RAG, embeddings, vector search, and database-backed FAQ retrieval** for knowledge-grounded conversations
+- Developed **session management, asynchronous processing, and event-driven pipeline orchestration** for real-time interactions
+- Added **multilingual voice support** with persistent conversation data and backend tool integration
 
 #### 🎬 [CreatorPilot – AI-Powered Creator Intelligence Platform](https://github.com/aasthasehgal16/CreatorPilot)
 `Python` `FastAPI` `PostgreSQL` `FAISS` `RAG`
 - Built a multi-agent AI platform (Trend Analyzer, Script Generator, Psychology & Hashtag Agents) with a FastAPI + PostgreSQL backend for real-time YouTube Shorts trend ingestion
 - Implemented Hybrid RAG (FAISS + BM25) for trend retrieval and integrated the Gemini API for AI-driven script generation
 - Delivered insights through a React + Recharts dashboard for creator analytics and content performance tracking
+
+  #### 🧠 [Mental Health Prediction & Analysis System](https://github.com/aasthasehgal16/mental-health-prediction-system)
+`Python` `Scikit-learn` `Pandas` `Streamlit`
+- Processed 10,000+ mental health survey records; ran EDA across 15+ variables to uncover stress patterns
+- Achieved **85% accuracy** with Random Forest — a 12% improvement over baseline Logistic Regression
+- Deployed a Streamlit dashboard with 20+ visualizations for stakeholder-ready reporting
 
 ---
 
