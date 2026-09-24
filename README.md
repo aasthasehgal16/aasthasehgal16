@@ -86,7 +86,7 @@ Data Structures & Algorithms · OOPs · DBMS · Operating Systems · Computer Ne
 ---
 
 ### 🏆 Achievements & Leadership
-
+-  Secured 1st Prize in the Ideathon at AWS Student Community Day 2026 for presenting an innovative, real-world AI-driven solution.
 - 🥇 **Smart India Hackathon 2025** — Selected among Top Teams; 
 - 🎤 Active participant in college-level data science workshops, quiz competitions, and AI events
 
